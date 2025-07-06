@@ -1,7 +1,7 @@
 # 🧠 TruthLens – Fake News Detection Web App
 
 TruthLens is a lightweight AI-powered web app that detects whether a news paragraph is likely **real or fake**.  
-Built in under 3 hours using Python (Flask) and **Hugging Face**'s inference API, it combines pre-trained models with rule-based feature analysis to make smart predictions.
+Built using Python (Flask) and **Hugging Face**'s inference API, it combines pre-trained models with rule-based feature analysis to make smart predictions.Made in under 3 hours for the Code Crafter AI challenge and won First place.
 
 ---
 
