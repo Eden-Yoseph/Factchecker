@@ -61,7 +61,7 @@ FAKE_NEWS_PATTERNS = {
     ]
 }
 
-# Sample texts for frontend (moved from HTML to Python)
+# Sample texts for frontend
 SAMPLE_TEXTS = {
     "real": "The UAE government announced new regulations for artificial intelligence development in the country, focusing on ethical AI practices and data privacy protection. The initiative aims to position the UAE as a global leader in responsible AI innovation.",
     "fake": "Scientists have discovered that drinking coffee backwards (spitting it out instead of swallowing) can increase lifespan by 200% according to a study conducted by the International Institute of Reverse Nutrition.",
